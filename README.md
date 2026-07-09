@@ -1,10 +1,11 @@
-# RTC-Dispose
-7/9/2026<br>
-Home page<br>
-Trash<br>
-Compost<br>
-Recycling<br>
-About us<br>
-Sources<br>
-Benefits<br>
-We created the design for 5 of our pages. They are the home page, recycling page, compost page, and trash page. After that, we worked on the About Us page.<br>
+
+  # Recycling Website
+
+  This is a code bundle for Recycling Website. The original project is available at https://www.figma.com/design/jiZG0KRHXFdaMNRN2FutcD/Recycling-Website.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
