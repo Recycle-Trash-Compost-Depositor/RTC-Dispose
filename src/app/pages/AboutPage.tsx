@@ -20,22 +20,10 @@ const team = [
   },
 
   {
-  {
-    name: "Sof",
-    role: "Recycling Systems Researcher",
-    bio: "Materials recovery facility analyst and zero-waste advocate. Sofia keeps our recycling guides accurate across the patchwork of local municipal programs.",
-    initials: "SR",
-    color: "bg-[#d9cfc4]",
-    accent: "#4a3f35",
-  },
-  {
     name: "Xavier Young",
-    role: "GitHub Manager",
-    bio: "Xavier is an intern and is the GitHub Manager for the RTC Dispose project. He has previously created a portfolio website and one called Math Mastery.",
+    role: "Github Manager",
+    bio: "Xavier is an intern and is the Github Manager for the RTC Dispose project. He has previously created a Portfolio website and one called Math Mastery.",
     initials: "XY",
-    color: "bg-[#d9cfc4]",
-    accent: "#4a3f35",
-  },
     color: "bg-[#d9cfc4]",
     accent: "#4a3f35",
   },
