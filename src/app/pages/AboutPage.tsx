@@ -3,18 +3,18 @@ import { Recycle, Leaf, Trash2, Heart, ArrowRight } from "lucide-react";
 
 const team = [
   {
-    name: "Maya Chen",
-    role: "Founder & Environmental Educator",
-    bio: "Former waste management coordinator for the City of Portland. Maya spent 12 years working with municipalities to improve diversion rates before launching Dispose Right.",
-    initials: "MC",
+    name: "Keshav Korattur",
+    role: "Founder & CEO",
+    bio: "Keshav is an intern, and during his time at his internship, he and 4 other people created a website to inform people about how to properly dispose of their waste.",
+    initials: "KK",
     color: "bg-[#c8d5b9]",
     accent: "#2d5a27",
   },
   {
-    name: "Darius Okafor",
-    role: "Compost & Organics Specialist",
+    name: "Lorenza Day",
+    role: "Documentor",
     bio: "Certified Master Composter with a background in soil science. Darius develops our composting content and consults with community gardens across the Pacific Northwest.",
-    initials: "DO",
+    initials: "LD",
     color: "bg-[#e0d9b8]",
     accent: "#7a5c1e",
   },
