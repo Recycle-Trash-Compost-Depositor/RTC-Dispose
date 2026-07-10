@@ -1,25 +1,23 @@
-import { createBrowserRouter, redirect } from "react-router";
+import { createBrowserRouter } from "react-router";
 import Layout from "./Layout";
+import HomePage from "./pages/HomePage";
 import RecyclingPage from "./pages/RecyclingPage";
+import CompostPage from "./pages/CompostPage";
 import TrashPage from "./pages/TrashPage";
+import BenefitsPage from "./pages/BenefitsPage";
+import AboutPage from "./pages/AboutPage";
 
 export const router = createBrowserRouter([
   {
     path: "/",
     Component: Layout,
     children: [
-      {
-        index: true,
-        loader: () => redirect("/recycling"),
-      },
-      {
-        path: "recycling",
-        Component: RecyclingPage,
-      },
-      {
-        path: "trash",
-        Component: TrashPage,
-      },
+      { index: true, Component: HomePage },
+      { path: "recycling", Component: RecyclingPage },
+      { path: "compost", Component: CompostPage },
+      { path: "trash", Component: TrashPage },
+      { path: "benefits", Component: BenefitsPage },
+      { path: "about", Component: AboutPage },
     ],
   },
 ]);
