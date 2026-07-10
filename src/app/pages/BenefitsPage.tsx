@@ -60,7 +60,6 @@ const benefits = [
 
 const comparisons = [
   { material: "Aluminum Can", recycled: "60 days", landfill: "200–500 years", icon: "🥫" },
-  { material: "Glass Bottle", recycled: "30 days", landfill: "1 million years", icon: "🍶" },
   { material: "Newspaper", recycled: "1–6 weeks", landfill: "2–6 weeks (but methane forms)", icon: "📰" },
   { material: "Plastic Bottle", recycled: "Reused in weeks", landfill: "450+ years", icon: "🧴" },
   { material: "Food Scraps", recycled: "2–6 months (compost)", landfill: "Decades + methane", icon: "🥦" },
