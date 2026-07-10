@@ -4,8 +4,8 @@ import { Recycle, Leaf, Trash2, Heart, ArrowRight } from "lucide-react";
 const team = [
   {
     name: "Keshav Korattur",
-    role: "Founder & CEO",
-    bio: "Keshav is an intern, and during his time at his internship, he and 4 other people created a website to inform people about how to properly dispose of their waste.",
+    role: "Project Leader",
+    bio: "Keshav is an intern, and during his time at his internship, he and 4 other people created a website to inform people about how to properly dispose of their waste. He helped in brainstorming, desiging, and coding the website.",
     initials: "KK",
     color: "bg-[#c8d5b9]",
     accent: "#2d5a27",
@@ -13,11 +13,13 @@ const team = [
   {
     name: "Lorenza Day",
     role: "Documentor",
-    bio: "Certified Master Composter with a background in soil science. Darius develops our composting content and consults with community gardens across the Pacific Northwest.",
+    bio: "Intern at Chociest Fruit during this internship he and 4 other people worked on helping people learn about separating trash from recycling, recycling from compost, and compost from trash.",
     initials: "LD",
     color: "bg-[#e0d9b8]",
-    accent: "#7a5c1e",
+    accent: "#602761",
   },
+
+  {
   {
     name: "Sof",
     role: "Recycling Systems Researcher",
@@ -26,6 +28,33 @@ const team = [
     color: "bg-[#d9cfc4]",
     accent: "#4a3f35",
   },
+  {
+    name: "Xavier Young",
+    role: "GitHub Manager",
+    bio: "Xavier is an intern and is the GitHub Manager for the RTC Dispose project. He has previously created a portfolio website and one called Math Mastery.",
+    initials: "XY",
+    color: "bg-[#d9cfc4]",
+    accent: "#4a3f35",
+  },
+    color: "bg-[#d9cfc4]",
+    accent: "#4a3f35",
+  },
+  {
+    name: "Javion Martinez",
+    role: "Frontend Developer",
+    bio: "Frontend developer with a passion for creating intuitive user experiences. Javion helps build the interactive elements of the RTC Dispose platform.",
+    initials: "JM",
+    color: "bg-[#d9cfc4]",
+    accent: "#4a3f35",
+  },
+  {
+    name: "Isaac Atkins",
+    role: "UI/UX Designer",
+    bio: "UI/UX designer with a focus on creating intuitive and engaging user experiences. Isaac helps shape the visual identity and interaction design of the RTC Dispose platform.",
+    initials: "IA",
+    color: "bg-[#c8d5b9]",
+    accent: "#2d5a27",
+  }
 ];
 
 const values = [
@@ -49,15 +78,6 @@ const values = [
     title: "Community-first",
     body: "Good disposal habits have the biggest impact at scale. We build tools and guides that work for households, schools, offices, and community organizations.",
   },
-];
-
-const milestones = [
-  { year: "2019", event: "Dispose Right founded in Portland, OR" },
-  { year: "2020", event: "Launched first curbside recycling guides for 12 municipalities" },
-  { year: "2021", event: "Added composting program guides — partnered with 40 community gardens" },
-  { year: "2022", event: "Reached 500,000 monthly visitors across our guides" },
-  { year: "2023", event: "Launched hazardous waste finder tool and special disposal directory" },
-  { year: "2024", event: "Expanded to cover 200+ cities with localized sorting rules" },
 ];
 
 export default function AboutPage() {
@@ -87,8 +107,7 @@ export default function AboutPage() {
               <em className="text-accent not-italic">dispose right.</em>
             </h1>
             <p className="text-lg text-muted-foreground leading-relaxed mb-4">
-              Dispose Right is a public education project dedicated to making waste sorting simple,
-              accurate, and accessible for everyone — from households to schools to businesses.
+              RTC Dispose is a free, open-source platform that helps people sort their waste with confidence. We provide simple guides for recycling, composting, and trash disposal.
             </p>
             <p className="text-muted-foreground leading-relaxed">
               We believe that most people want to do the right thing — they just need clear information
@@ -106,10 +125,6 @@ export default function AboutPage() {
                 <p className="text-xs font-bold" style={{ color }}>{label}</p>
               </div>
             ))}
-            <div className="col-span-3 bg-primary rounded-2xl p-5 text-primary-foreground text-center border border-border">
-              <p className="text-3xl font-black mb-1" style={{ fontFamily: "'Playfair Display', serif" }}>200+</p>
-              <p className="text-xs text-primary-foreground/70">Cities covered</p>
-            </div>
           </div>
         </div>
       </section>
@@ -129,9 +144,7 @@ export default function AboutPage() {
               actually know how to do."
             </blockquote>
             <p className="text-muted-foreground leading-relaxed">
-              The recycling system is fragmented, confusing, and full of myths — from "you have to
-              remove every label" to "all plastics are recyclable." We cut through the noise with
-              material-specific, municipality-aware guides that give real answers.
+              The recycle, trash, and compost system can be confusing for people who want to dispose their things in a safe manner. We serve to provide a simple, easy-to-use platform that helps people sort their waste with confidence.
             </p>
           </div>
         </div>
@@ -189,36 +202,6 @@ export default function AboutPage() {
                 <p className="text-sm text-muted-foreground leading-relaxed">{member.bio}</p>
               </div>
             ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Timeline */}
-      <section className="px-6 md:px-16 py-16">
-        <div className="max-w-3xl mx-auto">
-          <div className="mb-10">
-            <p className="text-xs uppercase tracking-widest text-accent font-semibold mb-3" style={{ fontFamily: "'DM Mono', monospace" }}>
-              How we got here
-            </p>
-            <h2 className="text-3xl md:text-4xl font-black text-primary" style={{ fontFamily: "'Playfair Display', serif" }}>
-              Our story
-            </h2>
-          </div>
-          <div className="relative">
-            <div className="absolute left-[72px] top-0 bottom-0 w-px bg-border" />
-            <div className="space-y-8">
-              {milestones.map((m, i) => (
-                <div key={i} className="flex items-start gap-6">
-                  <div className="w-20 shrink-0 text-right">
-                    <span className="text-sm font-bold text-muted-foreground" style={{ fontFamily: "'DM Mono', monospace" }}>{m.year}</span>
-                  </div>
-                  <div className="relative">
-                    <div className="w-3 h-3 rounded-full bg-accent absolute -left-[22px] top-1.5 border-2 border-background" />
-                  </div>
-                  <p className="text-sm text-foreground leading-relaxed pt-0.5 pl-2">{m.event}</p>
-                </div>
-              ))}
-            </div>
           </div>
         </div>
       </section>
