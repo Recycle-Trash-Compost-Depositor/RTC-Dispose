@@ -119,7 +119,7 @@ export default function HomePage() {
         <div className="flex items-center gap-2 mb-6">
           <span className="w-1.5 h-1.5 rounded-full bg-accent" />
           <span className="text-xs uppercase tracking-widest font-semibold text-accent" style={{ fontFamily: "'DM Mono', monospace" }}>
-            Dispose Right
+            RTC Dispose
           </span>
           <span className="w-1.5 h-1.5 rounded-full bg-accent" />
         </div>
