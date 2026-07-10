@@ -21,7 +21,7 @@ export default function Layout() {
             <Trash2 className="w-4 h-4 text-[#4a3f35]" strokeWidth={2.5} />
           </div>
           <span className="font-semibold text-primary text-sm tracking-wide" style={{ fontFamily: "'DM Mono', monospace" }}>
-            Dispose Right
+            RTC Dispose
           </span>
         </div>
 
@@ -57,7 +57,7 @@ export default function Layout() {
           <Trash2 className="w-5 h-5 text-[#a89580]" strokeWidth={1.5} />
         </div>
         <p className="font-bold text-lg mb-1" style={{ fontFamily: "'Playfair Display', serif" }}>
-          Dispose Right
+          RTC Dispose
         </p>
         <p className="text-sm text-primary-foreground/60 mb-5">
           Your guide to recycling, composting, and trash disposal.
