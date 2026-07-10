@@ -13,10 +13,10 @@ const team = [
   {
     name: "Lorenza Day",
     role: "Documentor",
-    bio: "Certified Master Composter with a background in soil science. Darius develops our composting content and consults with community gardens across the Pacific Northwest.",
+    bio: "Intern at Chociest Fruit during this internship he and 4 other people worked on helpin peolpe lean about seperatig trash from recyling,recyling from compost,and compost from trash.",
     initials: "LD",
     color: "bg-[#e0d9b8]",
-    accent: "#7a5c1e",
+    accent: "#602761",
   },
   {
     name: "Sofia Reyes",
@@ -26,6 +26,22 @@ const team = [
     color: "bg-[#d9cfc4]",
     accent: "#4a3f35",
   },
+  {
+    name: "Darius Okafor",
+    role: "Compost & Organics Specialist",
+    bio: "Certified Master Composter with a background in soil science. Darius develops our composting content and consults with community gardens across the Pacific Northwest.",
+    initials: "DO",
+    color: "bg-[#d9cfc4]",
+    accent: "#4a3f35",
+  },
+  {
+    name: "Alex Chen",
+    role: "Web Developer",
+    bio: "Full-stack web developer with a passion for sustainability. Alex builds and maintains the Dispose Right platform, ensuring a smooth user experience.",
+    initials: "AC",
+    color: "bg-[#c8d5b9]",
+    accent: "#2d5a27",
+  }
 ];
 
 const values = [
