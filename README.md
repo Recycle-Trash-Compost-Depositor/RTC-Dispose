@@ -1,11 +1,9 @@
 
   # Recycling Website
-1. The Recycling page was made. <br>
-2. The Trash page was made. <br>
-3. The Compost page was made. <br>
-4. The Benefits page was made. <br>
-5. The Home page was made. <br>
-6. The Abous Us page was made. <br>
+The Recyling page wsas made 
+The Trash page was made 
+The compost page was made
+The benfits page was made
   ## Running the code
 
   Run `npm i` to install the dependencies.
