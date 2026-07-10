@@ -13,11 +13,12 @@ const team = [
   {
     name: "Lorenza Day",
     role: "Documentor",
-    bio: "Intern at Chociest Fruit during this internship he and 4 other people worked on helpin peolpe lean about seperatig trash from recyling,recyling from compost,and compost from trash.",
+    bio: "Intern at Chociest Fruit during this internship he and 4 other people worked on helping people learn about separating trash from recycling, recycling from compost, and compost from trash.",
     initials: "LD",
     color: "bg-[#e0d9b8]",
     accent: "#602761",
   },
+  
   {
     name: "Sofia Reyes",
     role: "Recycling Systems Researcher",
