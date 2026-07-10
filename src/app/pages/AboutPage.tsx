@@ -19,7 +19,7 @@ const team = [
     accent: "#7a5c1e",
   },
   {
-    name: "Sofia Reyes",
+    name: "Sof",
     role: "Recycling Systems Researcher",
     bio: "Materials recovery facility analyst and zero-waste advocate. Sofia keeps our recycling guides accurate across the patchwork of local municipal programs.",
     initials: "SR",
