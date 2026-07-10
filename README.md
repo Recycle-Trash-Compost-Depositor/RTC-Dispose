@@ -1,7 +1,7 @@
 
   # Recycling Website
 <<<<<<< HEAD
-ISAAC created this website from scratch and his biggest challnege was teaching his teammates about JavaScript.
+ISAAC created this website from scratch and his biggest challnege was teaching his teammates about HTML.
   This is a code bundle for Recycling Website. The original project is available at https://www.figma.com/design/jiZG0KRHXFdaMNRN2FutcD/Recycling-Website.
 
 =======
