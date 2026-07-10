@@ -11,7 +11,6 @@ const categories = [
       "Oily or greasy food waste",
       "Candy wrappers & chip bags",
       "Disposable cups & plates (wax-coated)",
-      "Toothpicks & wooden chopsticks (used)",
       "Coffee pods & tea bags with staples",
     ],
     notAccepted: [
