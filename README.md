@@ -14,3 +14,13 @@
 
 ## Important Notes
 Made with Figma to design website
+
+## Keshav Documentation
+
+  1. Directed everyone into doing what they need to do
+  2. Helped direct the prompt for Figma 
+  3. Imported code from Figma
+  4. Helped maintain and push code from and into GitHub
+  5. Helped teammates when they ran into issues
+  6. Helped update code in about me
+  7. Fact-checked claims on the website
