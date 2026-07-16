@@ -24,3 +24,9 @@ Made with Figma to design website
   5. Helped teammates when they ran into issues
   6. Helped update code in about me
   7. Fact-checked claims on the website
+
+## Javion Documentation
+
+  1. Created the Figma outline
+  2. Projected the website MVP
+  3. Assisted others in various tasks along the website
