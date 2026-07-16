@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router";
 import { CheckCircle, XCircle, ChevronDown, AlertTriangle, Info, Trash2 } from "lucide-react";
 
 const categories = [
@@ -188,9 +189,9 @@ export default function TrashPage() {
         <AlertTriangle className="w-5 h-5 text-[#6b5d4f] shrink-0 mt-0.5" />
         <p className="text-sm text-[#4a3f35]">
           <strong>Trash is the last resort.</strong> Before binning something, check whether it belongs in{" "}
-          <a href="/recycling" className="underline underline-offset-2 hover:text-primary transition-colors">recycling</a>{" "}
+          <Link to="/recycling" className="underline underline-offset-2 hover:text-primary transition-colors">recycling</Link>{" "}
           or{" "}
-          <a href="/compost" className="underline underline-offset-2 hover:text-primary transition-colors">compost</a>.
+          <Link to="/compost" className="underline underline-offset-2 hover:text-primary transition-colors">compost</Link>.
           Only use the trash bin when no other option applies.
         </p>
       </div>

@@ -20,7 +20,7 @@ const team = [
   },
 
   {
-    name: "Xavier Young",
+    name: "Xavier Rashad  Young",
     role: "Github Manager",
     bio: "Xavier is an intern and is the Github Manager for the RTC Dispose project. He has previously created a Portfolio website and one called Math Mastery.",
     initials: "XY",
