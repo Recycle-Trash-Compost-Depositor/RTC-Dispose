@@ -4,20 +4,14 @@ A website built to teach people where to throw away their stuff in the best mann
 ## Screenshots
 <img src="HomePage.png" alt="The Home Page of RTC Dispose">
 The Home Page for RTC Dispose.
-<br>
 <img src = RecyclingPage.png alt = "The Recycling Page of RTC Dispose">
 This is shows the top of the recycling page. You can scroll down to see the features that the website contains. The Trash and Compost pages have a similar design.
 
-## Installation
-To install the app, you can go to the website and hit Ctrl + S to save the html file. You can then go to inspect and download all the code necessary. It is suggested to use the website over running the app yourself. Once you have downloaded every file, download node and npm.
+ ## Running the code
 
-After that, Run:
+  Run `npm i` to install the dependencies.
 
-'''npm i''' 
-
-'''npm run dev'''
-
-'''o + enter'''
+  Run `npm run dev` to start the development server.
 
   # Recycling Website
 1. The Recycling page was made. <br>
