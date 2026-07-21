@@ -1,3 +1,18 @@
+# RTC Dispose
+A website built to teach people where to throw away their stuff in the best manner for the environment.
+
+## Screenshots
+<img src="HomePage.png" alt="The Home Page of RTC Dispose">
+
+<img src = RecyclingPage.png alt = "The Recycling Page of RTC Dispose">
+This is shows the top of the recycling page. You can scroll down to see the features that the website contains. The Trash and Compost pages have a similar design.
+
+ ## Running the code
+  Download the code from GitHub and open it on your IDE.
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
 
   # Recycling Website
 1. The Recycling page was made. <br>
@@ -6,11 +21,6 @@
 4. The Benefits page was made. <br>
 5. The Home page was made. <br>
 6. The About Us page was made. <br>
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
 
 ## Important Notes
 Made with Figma to design website
@@ -24,11 +34,3 @@ Made with Figma to design website
   5. Helped teammates when they ran into issues
   6. Helped update code in about me
   7. Fact-checked claims on the website
-  
-## Lorenza Documentaion
-  
-  1. I worked on the read me.
-  2. I helped fact check the bennfits page
-  3. I helped on the about us page
-  4. I helped pepole clone repositories 
-
