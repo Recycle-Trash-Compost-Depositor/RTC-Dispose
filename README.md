@@ -24,3 +24,11 @@ Made with Figma to design website
   5. Helped teammates when they ran into issues
   6. Helped update code in about me
   7. Fact-checked claims on the website
+  
+## Lorenza Documentaion
+  
+  1. I worked on the read me.
+  2. I helped fact check the bennfits page
+  3. I helped on the about us page
+  4. I helped pepole clone repositories 
+
