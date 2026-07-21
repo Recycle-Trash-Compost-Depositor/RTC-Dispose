@@ -8,6 +8,7 @@ A website built to teach people where to throw away their stuff in the best mann
 This is shows the top of the recycling page. You can scroll down to see the features that the website contains. The Trash and Compost pages have a similar design.
 
  ## Running the code
+  Download the code from GitHub and open it on your IDE.
 
   Run `npm i` to install the dependencies.
 
@@ -20,11 +21,6 @@ This is shows the top of the recycling page. You can scroll down to see the feat
 4. The Benefits page was made. <br>
 5. The Home page was made. <br>
 6. The About Us page was made. <br>
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
 
 ## Important Notes
 Made with Figma to design website
