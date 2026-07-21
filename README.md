@@ -1,3 +1,8 @@
+# RTC Dispose
+A website built to teach people where to throw away their stuff in the best manner for the environment.
+
+## Screenshots
+<img src="HomePage.png" alt="The Home Page of RTC Dispose">
 
   # Recycling Website
 1. The Recycling page was made. <br>
