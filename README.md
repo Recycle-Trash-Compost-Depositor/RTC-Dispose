@@ -3,7 +3,7 @@ A website built to teach people where to throw away their stuff in the best mann
 
 ## Screenshots
 <img src="HomePage.png" alt="The Home Page of RTC Dispose">
-The Home Page for RTC Dispose.
+
 <img src = RecyclingPage.png alt = "The Recycling Page of RTC Dispose">
 This is shows the top of the recycling page. You can scroll down to see the features that the website contains. The Trash and Compost pages have a similar design.
 
