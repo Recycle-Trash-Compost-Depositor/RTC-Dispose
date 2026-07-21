@@ -1,6 +1,10 @@
 # RTC Dispose
 A website built to teach people where to throw away their stuff in the best manner for the environment.
 
+## Demo
+[![Watch the Demo Video](https://youtube.com)](https://youtube.com/watch?v=6GQggcCSmaY)
+
+
 ## Screenshots
 <img src="HomePage.png" alt="The Home Page of RTC Dispose">
 
